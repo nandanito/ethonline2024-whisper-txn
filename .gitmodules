@@ -1,0 +1,6 @@
+[submodule "txn-app"]
+	path = txn-app
+	url = https://github.com/ashleshsortee/zeto-txn-app
+[submodule "txn-backend"]
+	path = txn-backend
+	url = https://github.com/ashleshsortee/zeto-backend
